@@ -3,7 +3,7 @@
 			"name": "Hypixel Server",
 			"kind": "SERVER_BRANDING",
 			"data": "Hypixel BungeeCord \\(.+\\) <- .+",
-			"messagePrefix": "/ac",
+			"messagePrefix": "/hub",
 			"triggers": [{
 					"type": 0,
 					"pattern": "^ +You will respawn in 5 seconds!$"
